@@ -1,0 +1,3 @@
+- 本项目是一个初学者教程，介绍如何使用python来编写大模型应用。
+- 配套的视频教程地址：https://www.bilibili.com/video/BV1gm411B7t4/
+- 运行代码需要OpenAI的API key进行环境配置。
